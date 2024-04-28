@@ -33,7 +33,7 @@ The Football Analysis project is a multifaceted endeavor aimed at detecting and 
 - Training of Tennis Court Keypoints with PyTorch: `training/tennis_court_keypoints_training.ipynb`
 
 ### Football Analysis
-- Trained YOLO v5 model: [Download Trained YOLO v5 from top]
+- Trained YOLO v5 model: [Download Trained YOLO v5 (https://drive.google.com/file/d/1R0LtrjL5KFKe9dMUH3PsklMX2_eJ1E0S/view?usp=drive_link)]
 
 ## Requirements
 
